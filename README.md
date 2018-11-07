@@ -1,6 +1,8 @@
-Js Hello World Demo
-===================
+JavaScript HTML Table Cell Position Calculator Demo
+===================================================
 
-Open `index.html` in your browser.
+```
+open index.html
+```
 
-You will see "Hello, JS!" on the page.
+![demo](./images/demo.jpg)
